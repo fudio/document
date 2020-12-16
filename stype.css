@@ -1,0 +1,26 @@
+a {
+  font-family: "Source Code Pro", monospace;
+  text-decoration: none;
+}
+ol {
+  display: block;
+  list-style-type: decimal;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 40px;
+  font-size: 22px;
+}
+.title {
+  font-family: "Source Code Pro", monospace;
+  text-transform: uppercase;
+  font: bold;
+  text-align: center;
+  font-size: 40px;
+}
+.list {
+  font-family: "Source Code Pro", monospace;
+  text-transform: uppercase;
+  font: bold;
+}
